@@ -1,3 +1,4 @@
+![logo](https://github.com/shahzado-gul/shahzado-gul/blob/main/banner.jpeg)
 <h1 align="center">Hi 👋, I'm Shahzado Gul</h1>
 <h3 align="center">A passionate Back-end Developer</h3>
 
