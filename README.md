@@ -33,6 +33,10 @@ Computer Science graduate building practical software, exploring AI, and teachin
 <table>
 <tr>
 
+<!-- ========================= ABOUT ========================= -->
+<table>
+<tr>
+
 <td width="58%" valign="top">
 
 ## 🧑‍💻 About Me
@@ -52,9 +56,12 @@ I like building software that people can actually use, and I like teaching what 
 
 <td width="42%" align="center" valign="middle">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=1500&color=00B4D8&multiline=true&repeat=true&width=380&height=170&lines=%24+python+about_me.py;%3E+name+%3A+Shahzado+Gul;%3E+role+%3A+AI%2FML+Engineer;%3E+stack+%3A+Python%2C+OpenCV%2C+TensorFlow;%3E+goal+%3A+Build.+Learn.+Share." alt="Terminal animation">
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="400" alt="Coding Animation">
 
 </td>
+
+</tr>
+</table>
 
 </tr>
 </table>
