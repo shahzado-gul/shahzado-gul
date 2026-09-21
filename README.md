@@ -33,7 +33,7 @@ Computer Science graduate building practical software, exploring AI, and teachin
 <table>
 <tr>
 
-<td width="55%" valign="top">
+<td width="58%" valign="top">
 
 ## 🧑‍💻 About Me
 
@@ -50,9 +50,9 @@ I like building software that people can actually use, and I like teaching what 
 
 </td>
 
-<td width="45%" align="center" valign="middle">
+<td width="42%" align="center" valign="middle">
 
-<img src="./assets/terminal.svg" width="100%" alt="Animated terminal showing a Python class about me">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=1500&color=00B4D8&multiline=true&repeat=true&width=380&height=170&lines=%24+python+about_me.py;%3E+name+%3A+Shahzado+Gul;%3E+role+%3A+AI%2FML+Engineer;%3E+stack+%3A+Python%2C+OpenCV%2C+TensorFlow;%3E+goal+%3A+Build.+Learn.+Share." alt="Terminal animation">
 
 </td>
 
@@ -199,19 +199,10 @@ NLP-based recommendation system built with classic ML techniques.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahzado-gul&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution graph">
 </p>
 
-<!-- ========================= SNAKE ========================= -->
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shahzado-gul/shahzado-gul/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shahzado-gul/shahzado-gul/output/github-snake.svg">
-  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/shahzado-gul/shahzado-gul/output/github-snake.svg">
-</picture>
-</p>
-
 <!-- ========================= FOOTER ========================= -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1200&color=A78BFA&center=true&vCenter=true&width=500&height=40&lines=Build.+Learn.+Share.;Turning+ideas+into+practical+solutions+with+code." alt="Footer typing animation">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&height=40&lines=Build.+Learn.+Share.;Turning+ideas+into+practical+solutions+with+code." alt="Footer typing animation">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2c5364,50:203a43,100:0f2027&section=footer" width="100%" alt="">
 
