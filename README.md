@@ -28,25 +28,26 @@ Computer Science graduate building practical software, exploring AI, and teachin
 
 <table>
 <tr>
-<td width="65%" valign="top">
+
+<td width="68%" valign="top">
 
 ## 🧑‍💻 About Me
 
-I'm a **Computer Science graduate from the University of Sindh, Jamshoro**, with a strong interest in **Artificial Intelligence, Machine Learning, Computer Vision, and Web Development**.
+I'm a **Computer Science graduate from the University of Sindh, Jamshoro**, interested in **Artificial Intelligence, Machine Learning, Computer Vision, and Web Development**.
 
-Currently working across **software development, AI/ML, and teaching**, with experience in both technical projects and classroom environments.
+I enjoy building practical software, working with AI-related technologies, and sharing what I learn through teaching.
 
-* 🤖 Exploring **AI & Machine Learning**
-* 🐍 Working mainly with **Python**
-* 👁️ Interested in **Computer Vision & NLP**
-* 🌐 Building practical **web applications**
-* 🎓 Teaching **Programming, Web Development & AI**
-* 🧠 Interested in **LLM evaluation and AI systems**
-* 🚀 Always learning and building
+* 🤖 AI & Machine Learning
+* 🐍 Python Development
+* 👁️ Computer Vision & NLP
+* 🌐 Web Development
+* 🎓 Programming & AI Teaching
+* 🧠 LLM / Code Evaluation
+* 🚀 Learning and building practical solutions
 
 </td>
 
-<td width="35%" align="center" valign="top">
+<td width="32%" align="center" valign="middle">
 
 <img src="https://github.com/shahzado-gul/shahzado-gul/blob/main/profile.jpeg" width="220" alt="Shahzado Gul">
 
@@ -58,17 +59,14 @@ Currently working across **software development, AI/ML, and teaching**, with exp
 
 Computer Science Graduate
 
-<br>
-
-AI/ML • Python • Web Development
-
 <br><br>
 
 <a href="https://linkedin.com/in/shahzadogul">
-<img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white">
 </a>
 
 </td>
+
 </tr>
 </table>
 
@@ -88,6 +86,7 @@ AI/ML • Python • Web Development
 
 <table>
 <tr>
+
 <td width="33%" align="center">
 
 ### 🤖 AI & ML
@@ -124,6 +123,7 @@ Artificial Intelligence
 Python
 
 </td>
+
 </tr>
 </table>
 
@@ -133,6 +133,7 @@ Python
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🚌 AasanBooking
@@ -156,9 +157,11 @@ Computer vision project for wheat-related analysis using deep learning.
 **CNN • OpenCV • Flutter**
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### 👤 Gender & Age Classification
@@ -178,6 +181,7 @@ NLP-based recommendation system using machine learning techniques.
 **Python • TF-IDF • Word2Vec**
 
 </td>
+
 </tr>
 </table>
 
@@ -185,24 +189,21 @@ NLP-based recommendation system using machine learning techniques.
 
 ## 💼 Experience
 
-**Faculty Member / Lecturer — IT & Web Development**
-Aptech / IT Skills Pvt. Ltd. • Karachi
+### Faculty Member / Lecturer — IT & Web Development
+
+**Aptech / IT Skills Pvt. Ltd. • Karachi**
 
 Teaching and mentoring students in:
 
 `Web Development` `PHP` `JavaScript` `Python` `Databases`
 
-<br>
+### Research Analyst & AI Trainer — Turing
 
-**Research Analyst & AI Trainer — Turing**
+AI/LLM evaluation and training-related work.
 
-Worked on AI/LLM evaluation and training-related tasks.
+### LLM / Code Evaluation — Scale AI
 
-<br>
-
-**LLM / Code Evaluation — Scale AI**
-
-Worked on programming and AI evaluation tasks involving algorithmic problems and structured outputs.
+Programming and AI evaluation tasks involving algorithmic problems and structured outputs.
 
 ---
 
@@ -219,11 +220,11 @@ Worked on programming and AI evaluation tasks involving algorithmic problems and
 * 🎓 BS Computer Science — University of Sindh
 * 💻 Faculty Member / Lecturer in IT & Web Development
 * 🤖 AI/ML & LLM Evaluation experience
-* 🌾 Developed Computer Vision projects
+* 🌾 Computer Vision projects
 * 🚌 Co-founded and technically led **AasanBooking**
 * 🏅 Google Developer Student Clubs — Lead / Ambassador
 * 🏆 Zindigi Prize — Campus Director
-* 💻 PM Laptop Scheme recipient based on departmental CGPA
+* 💻 PM Laptop Scheme recipient
 * 🐍 NAVTTC Python Training — MUET
 
 ---
@@ -250,8 +251,6 @@ Worked on programming and AI evaluation tasks involving algorithmic problems and
 
 ### ✨ Build • Learn • Share
 
-<p>
 <sub>Turning ideas into practical solutions with code.</sub>
-</p>
 
 </div>
