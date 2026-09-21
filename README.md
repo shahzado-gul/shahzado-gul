@@ -1,256 +1,56 @@
-<div align="center">
+![logo](https://github.com/shahzado-gul/shahzado-gul/blob/main/banner.jpeg)
+<h1 align="center">Hi 👋, I'm Shahzado Gul</h1>
+<h3 align="center">A passionate Full-Stack Developer</h3>
 
-<img src="https://github.com/shahzado-gul/shahzado-gul/blob/main/banner.jpeg" width="100%" alt="Shahzado Gul">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<h2>Hi 👋, I'm Shahzado Gul</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahzado-gul&label=Profile%20views&color=0e75b6&style=flat" alt="shahzado-gul" /> </p>
 
-<p>
-<b>AI/ML • Python • Computer Vision • Web Development</b>
+- 🔭 I’m currently working on [Aasan-Booking](https://github.com/shahzado-gul/AasanBooking-main.git)
+
+- 🌱 I’m currently learning **Cyper Security**
+
+- 💬 Ask me about **Programming and Business Logics**
+
+- 📫 How to reach me **shahzadogulabro786@gmail.com**
+
+- ⚡ Fun fact **I think I am Stubborn**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shahzadogul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shahzadogul/" height="30" width="40" /></a>
 </p>
 
-<p>
-Computer Science graduate building practical software, exploring AI, and teaching technology.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <!-- Frontend -->
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30"/></a>
+  <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="30" height="30"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="30" height="30"/></a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="30" height="30"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" height="30"/></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="30" height="30"/></a>
+  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="30" height="30"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" height="30"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30" height="30"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30" height="30"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30" height="30"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30" height="30"/></a>
+  <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="30" height="30"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30" height="30"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="30" height="30"/></a>
+  <a href="https://www.terraform.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="30" height="30"/></a>
+  <a href="https://www.ansible.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="30" height="30"/></a>
+  <a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="30" height="30"/></a>
+  <a href="https://ubuntu.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="30" height="30"/></a>
+  <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="30" height="30"/></a>
 </p>
 
-<a href="https://linkedin.com/in/shahzadogul">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
-</a>
-<a href="mailto:thisisshahzadogul@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white">
-</a>
-<a href="https://github.com/shahzado-gul">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
-</a>
 
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahzado-gul&show_icons=true&locale=en&layout=compact" alt="shahzado-gul" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzado-gul&show_icons=true&locale=en" alt="shahzado-gul" /></p>
 
-<table>
-<tr>
-
-<td width="68%" valign="top">
-
-## 🧑‍💻 About Me
-
-I'm a **Computer Science graduate from the University of Sindh, Jamshoro**, interested in **Artificial Intelligence, Machine Learning, Computer Vision, and Web Development**.
-
-I enjoy building practical software, working with AI-related technologies, and sharing what I learn through teaching.
-
-* 🤖 AI & Machine Learning
-* 🐍 Python Development
-* 👁️ Computer Vision & NLP
-* 🌐 Web Development
-* 🎓 Programming & AI Teaching
-* 🧠 LLM / Code Evaluation
-* 🚀 Learning and building practical solutions
-
-</td>
-
-<td width="32%" align="center" valign="middle">
-
-<img src="https://github.com/shahzado-gul/shahzado-gul/blob/main/profile.jpeg" width="220" alt="Shahzado Gul">
-
-<br><br>
-
-<b>Shahzado Gul</b>
-
-<br>
-
-Computer Science Graduate
-
-<br><br>
-
-<a href="https://linkedin.com/in/shahzadogul">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white">
-</a>
-
-</td>
-
-</tr>
-</table>
-
----
-
-## ⚡ Tech I Work With
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,php,html,css,react,nodejs,mysql,mongodb,tensorflow,opencv,sklearn,git,github,docker" />
-
-</p>
-
----
-
-## 🛠️ Areas I Work In
-
-<table>
-<tr>
-
-<td width="33%" align="center">
-
-### 🤖 AI & ML
-
-Machine Learning
-Deep Learning
-Computer Vision
-NLP
-LLM Evaluation
-
-</td>
-
-<td width="33%" align="center">
-
-### 💻 Development
-
-Python
-PHP
-JavaScript
-React
-Node.js
-MySQL
-
-</td>
-
-<td width="33%" align="center">
-
-### 🎓 Teaching
-
-Programming
-Web Development
-Data Structures
-Artificial Intelligence
-Python
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🚌 AasanBooking
-
-AI-assisted bus booking platform designed for **Interior Sindh**.
-
-**PHP • AI • Web Development**
-
-<a href="https://github.com/shahzado-gul/AasanBooking-main">
-View Project →
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌾 Smart Wheat Farming
-
-Computer vision project for wheat-related analysis using deep learning.
-
-**CNN • OpenCV • Flutter**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 👤 Gender & Age Classification
-
-Deep learning and computer vision project for estimating gender and age from images.
-
-**CNN • OpenCV • Python**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧠 Medical Recommendation
-
-NLP-based recommendation system using machine learning techniques.
-
-**Python • TF-IDF • Word2Vec**
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 💼 Experience
-
-### Faculty Member / Lecturer — IT & Web Development
-
-**Aptech / IT Skills Pvt. Ltd. • Karachi**
-
-Teaching and mentoring students in:
-
-`Web Development` `PHP` `JavaScript` `Python` `Databases`
-
-### Research Analyst & AI Trainer — Turing
-
-AI/LLM evaluation and training-related work.
-
-### LLM / Code Evaluation — Scale AI
-
-Programming and AI evaluation tasks involving algorithmic problems and structured outputs.
-
----
-
-## 🎓 Education
-
-**BS Computer Science — University of Sindh, Jamshoro**
-
-`2020 — 2024` • **CGPA: 3.6 / 4.0**
-
----
-
-## 🏆 Highlights
-
-* 🎓 BS Computer Science — University of Sindh
-* 💻 Faculty Member / Lecturer in IT & Web Development
-* 🤖 AI/ML & LLM Evaluation experience
-* 🌾 Computer Vision projects
-* 🚌 Co-founded and technically led **AasanBooking**
-* 🏅 Google Developer Student Clubs — Lead / Ambassador
-* 🏆 Zindigi Prize — Campus Director
-* 💻 PM Laptop Scheme recipient
-* 🐍 NAVTTC Python Training — MUET
-
----
-
-## 📊 GitHub
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shahzado-gul&show_icons=true&hide_border=true&rank_icon=github" height="165">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzado-gul&layout=compact&hide_border=true" height="165">
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahzado-gul&hide_border=true">
-
-</p>
-
----
-
-<div align="center">
-
-### ✨ Build • Learn • Share
-
-<sub>Turning ideas into practical solutions with code.</sub>
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahzado-gul&" alt="shahzado-gul" /></p>
+set this acording to my cv
