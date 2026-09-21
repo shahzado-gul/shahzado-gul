@@ -187,8 +187,13 @@ NLP-based recommendation system built with classic ML techniques.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shahzado-gul&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180" alt="GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzado-gul&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top languages">
+<img src="https://img.shields.io/github/followers/shahzado-gul?style=for-the-badge&logo=github&color=7b2ff7&labelColor=0d1117" alt="Followers">
+<img src="https://img.shields.io/github/stars/shahzado-gul/AasanBooking-main?style=for-the-badge&logo=github&color=00b4d8&labelColor=0d1117" alt="AasanBooking stars">
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahzado-gul&theme=tokyonight" width="49%" alt="Profile details">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahzado-gul&theme=tokyonight" width="49%" alt="Top languages">
 </p>
 
 <p align="center">
@@ -196,7 +201,7 @@ NLP-based recommendation system built with classic ML techniques.
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahzado-gul&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution graph">
+<img src="https://ghchart.rshah.org/7b2ff7/shahzado-gul" width="100%" alt="Contribution graph">
 </p>
 
 <!-- ========================= FOOTER ========================= -->
