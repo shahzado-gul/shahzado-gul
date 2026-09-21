@@ -1,55 +1,190 @@
-![logo](https://github.com/shahzado-gul/shahzado-gul/blob/main/banner.jpeg)
-<h1 align="center">Hi 👋, I'm Shahzado Gul</h1>
-<h3 align="center">A passionate Full-Stack Developer</h3>
+<div align="center">
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img src="https://github.com/shahzado-gul/shahzado-gul/blob/main/banner.jpeg" alt="Shahzado Gul Banner">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahzado-gul&label=Profile%20views&color=0e75b6&style=flat" alt="shahzado-gul" /> </p>
+<h1>Hi 👋, I'm Shahzado Gul</h1>
 
-- 🔭 I’m currently working on [Aasan-Booking](https://github.com/shahzado-gul/AasanBooking-main.git)
+<h3>AI/ML Enthusiast | Computer Science Graduate | Python Developer | Lecturer</h3>
 
-- 🌱 I’m currently learning **Cyper Security**
-
-- 💬 Ask me about **Programming and Business Logics**
-
-- 📫 How to reach me **shahzadogulabro786@gmail.com**
-
-- ⚡ Fun fact **I think I am Stubborn**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shahzadogul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shahzadogul/" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/shahzado-gul">
+    <img src="https://komarev.com/ghpvc/?username=shahzado-gul&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Computer Science graduate** with hands-on experience in **Artificial Intelligence, Machine Learning, Computer Vision, NLP, and Web Development**.
+
+* 🎓 B.Sc. in Computer Science — **University of Sindh**
+* 🤖 Interested in **AI, Machine Learning, Deep Learning & Computer Vision**
+* 🐍 Primary programming language: **Python**
+* 👨‍🏫 Experienced in teaching **Programming, AI/ML, Web Development & Databases**
+* 🧠 Worked on **LLM evaluation and AI training**
+* 🚀 Co-founded an AI startup through the **National Incubation Center, Jamshoro**
+* 🔬 Interested in building practical, real-world AI solutions
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 🤖 AI & Machine Learning
+
 <p align="left">
-  <!-- Frontend -->
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30"/></a>
-  <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="30" height="30"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="30" height="30"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" width="30" height="30"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" height="30"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="30" height="30"/></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="30" height="30"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" height="30"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30" height="30"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30" height="30"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30" height="30"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30" height="30"/></a>
-  <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="30" height="30"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30" height="30"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="30" height="30"/></a>
-  <a href="https://www.terraform.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="30" height="30"/></a>
-  <a href="https://www.ansible.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="30" height="30"/></a>
-  <a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="30" height="30"/></a>
-  <a href="https://ubuntu.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="30" height="30"/></a>
-  <a href="https://www.microsoft.com/en-us/windows" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="30" height="30"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-learn">
 </p>
 
+**Machine Learning • Deep Learning • Computer Vision • NLP • Data Analysis**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahzado-gul&show_icons=true&locale=en&layout=compact" alt="shahzado-gul" /></p>
+### 📊 Data Science & Visualization
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzado-gul&show_icons=true&locale=en" alt="shahzado-gul" /></p>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy">
+  <img src="https://matplotlib.org/_static/images/logo2.svg" width="40" height="40" alt="Matplotlib">
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahzado-gul&" alt="shahzado-gul" /></p>
+**Pandas • NumPy • Matplotlib • Seaborn • Data Analysis**
+
+### 💻 Programming & Web Development
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="PHP">
+</p>
+
+**Python • C++ • JavaScript • PHP**
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB">
+</p>
+
+**MySQL • MongoDB**
+
+---
+
+## 🚀 Featured Projects
+
+### 🚌 AasanBooking — AI-Powered Bus Booking Platform
+
+A PHP-based bus booking platform developed as my Final Year Project, featuring **AI-powered recommendations for Interior Sindh**.
+
+🔗 [View Project](https://github.com/shahzado-gul/AasanBooking-main)
+
+### 🌾 Smart Wheat Farming Using AI & ML
+
+A computer vision project using a **CNN model** for wheat disease detection and growth prediction, with **Flutter integration**.
+
+### 👤 Gender & Age Classification
+
+A deep learning project using **CNN and OpenCV** for real-time gender and age classification.
+
+### 🏥 Medical Recommendation System
+
+An NLP-based recommendation system using:
+
+* Passive Aggressive Classifier
+* TF-IDF
+* Word2Vec
+
+---
+
+## 💼 Experience
+
+**Lecturer — IT Skills Pvt. Limited**
+*Sep 2024 – Oct 2025 | Karachi, Pakistan*
+
+Teaching and mentoring students in:
+
+* Python
+* AI / Machine Learning
+* Web Development
+* Databases
+* Real-world AI projects
+
+**Research Analyst & AI Trainer — Turing**
+*Oct 2024 – Jan 2025 | Remote*
+
+Worked on **LLM evaluation**, response enhancement, and AI model performance evaluation.
+
+**Scale AI**
+*Feb 2023 – Jan 2024 | Remote*
+
+Contributed to AI/LLM-related evaluation and training work.
+
+**Co-Founder & Technical Lead — National Incubation Center, Jamshoro**
+*Apr 2022 – Oct 2022*
+
+Co-founded an AI startup and led technical development of a web application involving **ML-based predictive analytics**.
+
+---
+
+## 🏆 Achievements
+
+* 🥇 **PM Laptop Scheme Award — 2023**
+* 🏆 **Zindigi Prize Campus Director — 2023–2024**
+* 👨‍💻 **Google Developer Student Clubs Lead — 2021–2022**
+* 🥇 **Gold Medalist — Science Event, 2017**
+* 🏅 **9th Position — Visual Programming Competition, 2023**
+* 🔬 **Science Festival Champion — 2017**
+
+---
+
+## 📜 Certifications
+
+* **Deep Learning Essentials** — 10Pearls University, 2025
+* **Python Development Training** — NAVTTC / Prime Minister's Youth Program, 2022
+* **Google Soft Skills Program** — Google & PAFLA, 2024
+* **Advanced Leadership & Communication** — 2023
+* **Certificate of Appreciation — Entrepreneurial Ecosystem Contribution** — NIC Jamshoro, 2022
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/shahzadogul" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
+  </a>
+</p>
+
+📧 **Email:** [thisisshahzadogul@gmail.com](mailto:thisisshahzadogul@gmail.com)
+💼 **LinkedIn:** [linkedin.com/in/shahzadogul](https://linkedin.com/in/shahzadogul)
+🐙 **GitHub:** [github.com/shahzado-gul](https://github.com/shahzado-gul)
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahzado-gul&show_icons=true&locale=en" alt="Shahzado Gul GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahzado-gul&show_icons=true&locale=en&layout=compact" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahzado-gul" alt="GitHub Streak">
+</p>
+
+---
+
+<div align="center">
+
+### 💡 "Building practical solutions with AI, one project at a time."
+
+</div>
