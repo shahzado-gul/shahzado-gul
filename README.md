@@ -1,34 +1,44 @@
-<div align="center">
-
-<img src="https://github.com/shahzado-gul/shahzado-gul/blob/main/banner.jpeg" width="100%" alt="Shahzado Gul">
-
-<h2>Hi 👋, I'm Shahzado Gul</h2>
-
-<p>
-<b>AI/ML • Python • Computer Vision • Web Development</b>
-</p>
-
-<p>
-Computer Science graduate building practical software, exploring AI, and teaching technology.
-</p>
-
-<a href="https://linkedin.com/in/shahzadogul">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
-</a>
-&nbsp;
-<a href="mailto:thisisshahzadogul@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white">
-</a>
-&nbsp;
-<a href="https://github.com/shahzado-gul">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
-</a>
-
-</div>
-
----
-
 <table>
+<tr>
+
+<td width="65%" valign="top">
+
+## 🧑‍💻 About Me
+
+I'm a **Computer Science graduate from the University of Sindh, Jamshoro**, interested in **Artificial Intelligence, Machine Learning, Computer Vision, and Web Development**.
+
+I enjoy building practical software, exploring AI technologies, and sharing what I learn through teaching.
+
+* 🤖 AI & Machine Learning
+* 🐍 Python Development
+* 👁️ Computer Vision & NLP
+* 🌐 Web Development
+* 🎓 Programming & AI Teaching
+* 🧠 LLM & Code Evaluation
+* 🚀 Learning and building practical solutions
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img
+src="https://raw.githubusercontent.com/shahzado-gul/shahzado-gul/main/coding.gif"
+width="300"
+alt="Coding Animation"
+>
+
+<br><br>
+
+<b>Shahzado Gul</b>
+
+<br>
+
+AI/ML • Python • Web Development
+
+</td>
+
+</tr>
+</table>
 <tr>
 
 <td width="65%" valign="top">
@@ -55,7 +65,6 @@ I enjoy building practical software, exploring AI technologies, and sharing what
 src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
 width="300"
 alt="Coding Animation"
-
 >
 
 <br><br>
